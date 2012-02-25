@@ -1,33 +1,11 @@
 /*Psst. This is how you comment stuff out. Like secret messages.
 it can be however lines you want as long as it's withink the...
 astrisk and slash combo.*/
-//here is another secret. Keep it short, one line only.
-}
 body {
-	position: relative;
-	background: #eee;
-}
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p,
-a {
 	font-family: Arial, Helvetica, sans-serif;
-	/*A bunch people in the same curly brackets. WHY?
-	  Instead of typing the same styles over and
-	  over, you can have them buddy up and share so it
-	  applies to all included in the buddy system.
-	  COOL RIGHT!?
-	  Oh, and all the loners go after the friends.*/
 }
 p {
-	color: #444;    /*This is a loner.
-					  All the styles shared above still 
-					  apply, but only the "p" will get
-					  the colour change. Simple pimple.*/
+	color: #444; /*this is the font colour*/
 }
 .shapes h2 {
 	color: #333;
@@ -43,7 +21,8 @@ p {
 .square1,
 .circle1,
 .fancy1 {
-	margin: 10px;   /*10px applies to TOP, RIGHT, BOTTOM, and LEFT
+	margin: 10px;   
+	 				 /*10px applies to TOP, RIGHT, BOTTOM, and LEFT
 						P.S. engrave that pattern in your head,
 						it shows up everywhere.*/
 				    /*can also be written out 10px 10px 10px 10px
